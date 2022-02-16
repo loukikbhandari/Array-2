@@ -34,5 +34,6 @@ public class Problem2 {
 /*
 Time complexity : O(n)
 Space complexity : O(1)
-Problems faced : no
+Did this code successfully run on Leetcode : yes
+Any problem you faced while coding this :no
 */
